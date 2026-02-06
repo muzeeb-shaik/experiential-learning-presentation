@@ -1646,7 +1646,7 @@ Our field study shows **what** happens, but **why** does mixed-gender experienti
 :::: fragment
 ### Primary Outcomes
 
--   **Stereotype endorsement** (same items as baseline + scenario-based items)
+-   **Stereotype endorsement**
 ::::
 
 :::: fragment
