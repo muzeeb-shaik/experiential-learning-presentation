@@ -400,7 +400,7 @@ Rather than **targeting gender perceptions directly**, what if we could produce 
 ::: fragment
 ### Research Questions
 
-**Primary:** Can experiential science learning, designed for *pedagogy* not gender, simultaneously improve science knowledge **and** reduce gender stereotypes?
+**Primary:** Can experiential science learning, designed for *pedagogy*, simultaneously improve science knowledge **and** reduce gender stereotypes?
 
 **Secondary:**
 
@@ -1241,7 +1241,7 @@ Even modest reductions in stereotypes, when scaled across large populations, can
 
 ## Robustness Check: CEM Matching {.smaller}
 
-**Why CEM Matching?** To strengthen causal credibility, we use Coarsened Exact Matching (CEM) to address baseline differences between treatment and control groups. This ensures our results are not driven by pre-existing differences in student proficiency, providing a more rigorous test of the intervention's true effect.
+**Why CEM Matching?** To strengthen causal credibility, we use Coarsened Exact Matching (CEM) to address baseline differences between treatment and control groups in their **Science Knowledge**. No pre-period differences in **Gender Stereotypes**
 
 :::::: columns
 
@@ -1486,11 +1486,6 @@ This experimental design is still in development. **We welcome your feedback on:
 -   What boundary conditions should we explore?
 -   Are there design elements that could be improved?
 
-::: {.callout-tip}
-## Your Expertise Matters
-
-We're actively refining this study and would appreciate your suggestions and critiques.
-:::
 ::::
 :::::
 :::::::::
@@ -1507,7 +1502,7 @@ Our field study shows **what** happens, but **why** does mixed-gender experienti
 
 1. Is **equal-status contact** necessary, or is any mixed-gender interaction sufficient?
 2. Does **collaboration** matter, or would solo learning produce similar effects?
-3. Which **psychological mediators** drive the effect (norms, belonging, perceived competence)?
+3. Which **psychol  ogical mediators** drive the effect (norms, belonging, perceived competence)?
 :::
 ::::
 
@@ -1627,13 +1622,6 @@ Our field study shows **what** happens, but **why** does mixed-gender experienti
 
 ::::::::: columns
 ::::: {.column width="50%"}
-:::: fragment
-### Pre-Measures (Baseline)
-
--   Prior stereotype endorsement
--   Science interest and self-efficacy
--   Prior cross-gender academic contact
-::::
 
 :::: fragment
 ### Mechanism Measures (Post-Vignette)
