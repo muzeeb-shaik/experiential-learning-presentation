@@ -1669,7 +1669,7 @@ Our field study shows **what** happens, but **why** does mixed-gender experienti
 :::: fragment
 ### Hypotheses
 
-1. **MG-Equal > all other conditions** for stereotype reduction
+1. **MG-Equal < all other conditions** for stereotype 
 2. **MG-Unequal ≈ SG** (without equal status, cross-gender contact insufficient)
 3. **Solo < Collaborative conditions** (interaction drives belief updating)
 4. **Mediation:** Effects work through perceived norms and belonging
